@@ -3,15 +3,11 @@
 
 <head>
 
-    <meta charset="utf-8">
-   <!--- <script src="<?= JS_PATH ?>my.js"></script> -->
+    <meta charset="utf-8">      
+   <script src="<?= JS_PATH ?>my.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <script>
-    function countRabbits() {
-        for (var i=1;i<3;i++){
-            alert("Кролик №"+ i);
-        }
-    }
+
     </script>
 </head>
 

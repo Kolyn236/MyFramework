@@ -8,7 +8,7 @@
 
 namespace app;
 
-define("SITE_TEMPLATE_PATH", $_SERVER["DOCUMENT_ROOT"]."/php_for_me"."/views/template/");
+define("SITE_TEMPLATE_PATH", $_SERVER["DOCUMENT_ROOT"]."/MyFramework/php_for_me"."/views/template/");
 define("JS_PATH", "views/js/");
 
 
